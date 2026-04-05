@@ -24,7 +24,7 @@ import SettingsScreen from './screens/SettingsScreen';
 import SpotMonitoringScreen from './screens/SpotMonitoringScreen';
 import LoginScreen from './screens/LoginScreen';
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+const ai = new GoogleGenAI({ apiKey: (import.meta as any).env.VITE_GEMINI_API_KEY });
 
 /**
  * 全局 Toast 組件

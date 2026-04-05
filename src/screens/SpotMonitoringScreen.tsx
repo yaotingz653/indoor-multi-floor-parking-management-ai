@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Car, Info, X, Clock, MapPin, Hash } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { mockData } from '../data/mockData';
@@ -6,6 +6,19 @@ import { mockData } from '../data/mockData';
 const SpotMonitoringScreen = () => {
   const [activeFloor, setActiveFloor] = useState('providence_underground');
   const [selectedSpot, setSelectedSpot] = useState<any>(null);
+  // --- 這裡開始是我們植入的神經連接 ---
+  useEffect(() => {
+    // 網頁一載入，就去敲 Render 後端的門！
+    fetch('https://indoor-multi-floor-parking-management-ai.onrender.com/api/dashboard/')
+      .then(response => response.json()) // 把大廚給的資料拆開
+      .then(data => {
+        console.log("🎉 成功從 Render 拿到真實資料啦！", data);
+      })
+      .catch(error => {
+        console.error("🚨 連線大失敗，請檢查：", error);
+      });
+  }, []);
+  // --- 植入結束 ---
 
   const stats = [
     { label: '總格位', value: 20, color: 'text-slate-900' },
