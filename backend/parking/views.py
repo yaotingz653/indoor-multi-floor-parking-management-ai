@@ -40,3 +40,10 @@ def update_spot_status(request):
             return JsonResponse({'status': 'error', 'message': f'發生錯誤：{str(e)}'}, status=400)
 
     return JsonResponse({'status': 'error', 'message': '請使用 POST 方法'})
+
+def get_dashboard_data(request):
+    # 這是我們從後端傳給前端的真實測試資料！
+    return JsonResponse({
+        "message": "🎉 老闆！前端和後端正式連線成功啦！",
+        "status": "success"
+    })
