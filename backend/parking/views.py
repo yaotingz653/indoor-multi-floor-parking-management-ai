@@ -87,3 +87,16 @@ def manual_update_status(request):
             return JsonResponse({'status': 'error', 'message': f'發生錯誤：{str(e)}'}, status=500, json_dumps_params={'ensure_ascii': False})
             
     return JsonResponse({'status': 'error', 'message': '請使用 POST 方法呼叫此 API'}, status=405, json_dumps_params={'ensure_ascii': False})
+
+def get_all_spots(request):
+    """前端用來讀取所有車位最新狀態的 API"""
+    if request.method == 'GET':
+        # 1. 去資料庫把所有車位撈出來
+        # 只要 spot_code 和 status 就好，前端只需要這些來變色
+        spots = list(ParkingSpot.objects.values('spot_code', 'status'))
+        
+        # 2. 包裝成 JSON 傳給前端
+        return JsonResponse({
+            'status': 'success',
+            'data': spots  # 這裡會是一大串像 [{'spot_code': 'A-15', 'status': 'occupied'}, ...] 的清單
+        }, json_dumps_params={'ensure_ascii': False})
