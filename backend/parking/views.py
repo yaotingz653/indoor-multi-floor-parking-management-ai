@@ -93,7 +93,7 @@ def get_all_spots(request):
     if request.method == 'GET':
         # 1. 去資料庫把所有車位撈出來
         # 只要 spot_code 和 status 就好，前端只需要這些來變色
-        spots = list(ParkingSpot.objects.values('spot_code', 'status'))
+        spots = list(ParkingSpot.objects.order_by('spot_code').values('spot_code', 'status'))
         
         # 2. 包裝成 JSON 傳給前端
         return JsonResponse({

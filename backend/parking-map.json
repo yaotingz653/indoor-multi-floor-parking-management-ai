@@ -1,0 +1,3922 @@
+{
+  "lotId": "Motor-Lot-01",
+  "dimensions": {
+    "length": 24,
+    "width": 23
+  },
+  "description": "自動生成的 24x23 陣列，總計 456 個車位",
+  "grid": [
+    [
+      {
+        "x": 0,
+        "y": 0,
+        "type": "spot",
+        "id": "A-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "type": "spot",
+        "id": "A-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "spot",
+        "id": "A-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "spot",
+        "id": "A-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "type": "spot",
+        "id": "A-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "type": "spot",
+        "id": "A-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 0,
+        "type": "spot",
+        "id": "A-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 0,
+        "type": "spot",
+        "id": "A-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 0,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 0,
+        "type": "spot",
+        "id": "A-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 0,
+        "type": "spot",
+        "id": "A-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 0,
+        "type": "spot",
+        "id": "A-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 0,
+        "type": "spot",
+        "id": "A-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 0,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 0,
+        "type": "spot",
+        "id": "A-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 0,
+        "type": "spot",
+        "id": "A-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 0,
+        "type": "spot",
+        "id": "A-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 0,
+        "type": "spot",
+        "id": "A-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 0,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 0,
+        "type": "spot",
+        "id": "A-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 0,
+        "type": "spot",
+        "id": "A-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 0,
+        "type": "spot",
+        "id": "A-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 1,
+        "type": "spot",
+        "id": "B-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "type": "spot",
+        "id": "B-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "type": "spot",
+        "id": "B-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "spot",
+        "id": "B-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "type": "spot",
+        "id": "B-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 1,
+        "type": "spot",
+        "id": "B-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 1,
+        "type": "spot",
+        "id": "B-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 1,
+        "type": "spot",
+        "id": "B-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 1,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 1,
+        "type": "spot",
+        "id": "B-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 1,
+        "type": "spot",
+        "id": "B-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 1,
+        "type": "spot",
+        "id": "B-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 1,
+        "type": "spot",
+        "id": "B-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 1,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 1,
+        "type": "spot",
+        "id": "B-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 1,
+        "type": "spot",
+        "id": "B-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 1,
+        "type": "spot",
+        "id": "B-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 1,
+        "type": "spot",
+        "id": "B-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 1,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 1,
+        "type": "spot",
+        "id": "B-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 1,
+        "type": "spot",
+        "id": "B-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 1,
+        "type": "spot",
+        "id": "B-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 2,
+        "type": "spot",
+        "id": "C-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "spot",
+        "id": "C-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "spot",
+        "id": "C-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "type": "spot",
+        "id": "C-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "type": "spot",
+        "id": "C-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 2,
+        "type": "spot",
+        "id": "C-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 2,
+        "type": "spot",
+        "id": "C-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 2,
+        "type": "spot",
+        "id": "C-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 2,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 2,
+        "type": "spot",
+        "id": "C-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 2,
+        "type": "spot",
+        "id": "C-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 2,
+        "type": "spot",
+        "id": "C-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 2,
+        "type": "spot",
+        "id": "C-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 2,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 2,
+        "type": "spot",
+        "id": "C-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 2,
+        "type": "spot",
+        "id": "C-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 2,
+        "type": "spot",
+        "id": "C-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 2,
+        "type": "spot",
+        "id": "C-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 2,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 2,
+        "type": "spot",
+        "id": "C-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 2,
+        "type": "spot",
+        "id": "C-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 2,
+        "type": "spot",
+        "id": "C-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 3,
+        "type": "spot",
+        "id": "D-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "type": "spot",
+        "id": "D-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "type": "spot",
+        "id": "D-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "type": "spot",
+        "id": "D-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "type": "spot",
+        "id": "D-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 3,
+        "type": "spot",
+        "id": "D-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 3,
+        "type": "spot",
+        "id": "D-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 3,
+        "type": "spot",
+        "id": "D-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 3,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 3,
+        "type": "spot",
+        "id": "D-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 3,
+        "type": "spot",
+        "id": "D-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 3,
+        "type": "spot",
+        "id": "D-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 3,
+        "type": "spot",
+        "id": "D-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 3,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 3,
+        "type": "spot",
+        "id": "D-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 3,
+        "type": "spot",
+        "id": "D-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 3,
+        "type": "spot",
+        "id": "D-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 3,
+        "type": "spot",
+        "id": "D-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 3,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 3,
+        "type": "spot",
+        "id": "D-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 3,
+        "type": "spot",
+        "id": "D-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 3,
+        "type": "spot",
+        "id": "D-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 4,
+        "type": "spot",
+        "id": "E-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "type": "spot",
+        "id": "E-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "type": "spot",
+        "id": "E-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 4,
+        "type": "spot",
+        "id": "E-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 4,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 4,
+        "type": "spot",
+        "id": "E-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 4,
+        "type": "spot",
+        "id": "E-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 4,
+        "type": "spot",
+        "id": "E-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 4,
+        "type": "spot",
+        "id": "E-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 4,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 4,
+        "type": "spot",
+        "id": "E-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 4,
+        "type": "spot",
+        "id": "E-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 4,
+        "type": "spot",
+        "id": "E-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 4,
+        "type": "spot",
+        "id": "E-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 4,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 4,
+        "type": "spot",
+        "id": "E-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 4,
+        "type": "spot",
+        "id": "E-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 4,
+        "type": "spot",
+        "id": "E-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 4,
+        "type": "spot",
+        "id": "E-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 4,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 4,
+        "type": "spot",
+        "id": "E-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 4,
+        "type": "spot",
+        "id": "E-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 4,
+        "type": "spot",
+        "id": "E-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 5,
+        "type": "spot",
+        "id": "F-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 5,
+        "type": "spot",
+        "id": "F-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 5,
+        "type": "spot",
+        "id": "F-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "type": "spot",
+        "id": "F-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 5,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 5,
+        "type": "spot",
+        "id": "F-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 5,
+        "type": "spot",
+        "id": "F-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 5,
+        "type": "spot",
+        "id": "F-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 5,
+        "type": "spot",
+        "id": "F-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 5,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 5,
+        "type": "spot",
+        "id": "F-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 5,
+        "type": "spot",
+        "id": "F-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 5,
+        "type": "spot",
+        "id": "F-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 5,
+        "type": "spot",
+        "id": "F-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 5,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 5,
+        "type": "spot",
+        "id": "F-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 5,
+        "type": "spot",
+        "id": "F-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 5,
+        "type": "spot",
+        "id": "F-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 5,
+        "type": "spot",
+        "id": "F-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 5,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 5,
+        "type": "spot",
+        "id": "F-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 5,
+        "type": "spot",
+        "id": "F-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 5,
+        "type": "spot",
+        "id": "F-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 6,
+        "type": "spot",
+        "id": "G-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 6,
+        "type": "spot",
+        "id": "G-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 6,
+        "type": "spot",
+        "id": "G-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 6,
+        "type": "spot",
+        "id": "G-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 6,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 6,
+        "type": "spot",
+        "id": "G-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 6,
+        "type": "spot",
+        "id": "G-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 6,
+        "type": "spot",
+        "id": "G-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 6,
+        "type": "spot",
+        "id": "G-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 6,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 6,
+        "type": "spot",
+        "id": "G-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 6,
+        "type": "spot",
+        "id": "G-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 6,
+        "type": "spot",
+        "id": "G-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 6,
+        "type": "spot",
+        "id": "G-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 6,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 6,
+        "type": "spot",
+        "id": "G-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 6,
+        "type": "spot",
+        "id": "G-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 6,
+        "type": "spot",
+        "id": "G-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 6,
+        "type": "spot",
+        "id": "G-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 6,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 6,
+        "type": "spot",
+        "id": "G-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 6,
+        "type": "spot",
+        "id": "G-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 6,
+        "type": "spot",
+        "id": "G-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 7,
+        "type": "spot",
+        "id": "H-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 7,
+        "type": "spot",
+        "id": "H-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 7,
+        "type": "spot",
+        "id": "H-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 7,
+        "type": "spot",
+        "id": "H-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 7,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 7,
+        "type": "spot",
+        "id": "H-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 7,
+        "type": "spot",
+        "id": "H-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 7,
+        "type": "spot",
+        "id": "H-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 7,
+        "type": "spot",
+        "id": "H-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 7,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 7,
+        "type": "spot",
+        "id": "H-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 7,
+        "type": "spot",
+        "id": "H-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 7,
+        "type": "spot",
+        "id": "H-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 7,
+        "type": "spot",
+        "id": "H-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 7,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 7,
+        "type": "spot",
+        "id": "H-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 7,
+        "type": "spot",
+        "id": "H-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 7,
+        "type": "spot",
+        "id": "H-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 7,
+        "type": "spot",
+        "id": "H-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 7,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 7,
+        "type": "spot",
+        "id": "H-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 7,
+        "type": "spot",
+        "id": "H-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 7,
+        "type": "spot",
+        "id": "H-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 8,
+        "type": "spot",
+        "id": "I-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 8,
+        "type": "spot",
+        "id": "I-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 8,
+        "type": "spot",
+        "id": "I-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 8,
+        "type": "spot",
+        "id": "I-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 8,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 8,
+        "type": "spot",
+        "id": "I-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 8,
+        "type": "spot",
+        "id": "I-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 8,
+        "type": "spot",
+        "id": "I-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "type": "spot",
+        "id": "I-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 8,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 8,
+        "type": "spot",
+        "id": "I-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 8,
+        "type": "spot",
+        "id": "I-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 8,
+        "type": "spot",
+        "id": "I-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 8,
+        "type": "spot",
+        "id": "I-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 8,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 8,
+        "type": "spot",
+        "id": "I-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 8,
+        "type": "spot",
+        "id": "I-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 8,
+        "type": "spot",
+        "id": "I-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 8,
+        "type": "spot",
+        "id": "I-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 8,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 8,
+        "type": "spot",
+        "id": "I-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 8,
+        "type": "spot",
+        "id": "I-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 8,
+        "type": "spot",
+        "id": "I-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 9,
+        "type": "spot",
+        "id": "J-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 9,
+        "type": "spot",
+        "id": "J-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 9,
+        "type": "spot",
+        "id": "J-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 9,
+        "type": "spot",
+        "id": "J-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 9,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 9,
+        "type": "spot",
+        "id": "J-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 9,
+        "type": "spot",
+        "id": "J-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 9,
+        "type": "spot",
+        "id": "J-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 9,
+        "type": "spot",
+        "id": "J-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 9,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 9,
+        "type": "spot",
+        "id": "J-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 9,
+        "type": "spot",
+        "id": "J-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 9,
+        "type": "spot",
+        "id": "J-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 9,
+        "type": "spot",
+        "id": "J-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 9,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 9,
+        "type": "spot",
+        "id": "J-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 9,
+        "type": "spot",
+        "id": "J-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 9,
+        "type": "spot",
+        "id": "J-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 9,
+        "type": "spot",
+        "id": "J-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 9,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 9,
+        "type": "spot",
+        "id": "J-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 9,
+        "type": "spot",
+        "id": "J-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 9,
+        "type": "spot",
+        "id": "J-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 10,
+        "type": "spot",
+        "id": "K-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 10,
+        "type": "spot",
+        "id": "K-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 10,
+        "type": "spot",
+        "id": "K-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 10,
+        "type": "spot",
+        "id": "K-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 10,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 10,
+        "type": "spot",
+        "id": "K-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 10,
+        "type": "spot",
+        "id": "K-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 10,
+        "type": "spot",
+        "id": "K-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 10,
+        "type": "spot",
+        "id": "K-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 10,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 10,
+        "type": "spot",
+        "id": "K-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 10,
+        "type": "spot",
+        "id": "K-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 10,
+        "type": "spot",
+        "id": "K-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 10,
+        "type": "spot",
+        "id": "K-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 10,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 10,
+        "type": "spot",
+        "id": "K-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 10,
+        "type": "spot",
+        "id": "K-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 10,
+        "type": "spot",
+        "id": "K-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 10,
+        "type": "spot",
+        "id": "K-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 10,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 10,
+        "type": "spot",
+        "id": "K-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 10,
+        "type": "spot",
+        "id": "K-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 10,
+        "type": "spot",
+        "id": "K-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 11,
+        "type": "spot",
+        "id": "L-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 11,
+        "type": "spot",
+        "id": "L-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 11,
+        "type": "spot",
+        "id": "L-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 11,
+        "type": "spot",
+        "id": "L-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 11,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 11,
+        "type": "spot",
+        "id": "L-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 11,
+        "type": "spot",
+        "id": "L-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 11,
+        "type": "spot",
+        "id": "L-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 11,
+        "type": "spot",
+        "id": "L-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 11,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 11,
+        "type": "spot",
+        "id": "L-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 11,
+        "type": "spot",
+        "id": "L-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 11,
+        "type": "spot",
+        "id": "L-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 11,
+        "type": "spot",
+        "id": "L-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 11,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 11,
+        "type": "spot",
+        "id": "L-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 11,
+        "type": "spot",
+        "id": "L-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 11,
+        "type": "spot",
+        "id": "L-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 11,
+        "type": "spot",
+        "id": "L-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 11,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 11,
+        "type": "spot",
+        "id": "L-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 11,
+        "type": "spot",
+        "id": "L-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 11,
+        "type": "spot",
+        "id": "L-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 12,
+        "type": "spot",
+        "id": "M-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 12,
+        "type": "spot",
+        "id": "M-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 12,
+        "type": "spot",
+        "id": "M-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 12,
+        "type": "spot",
+        "id": "M-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 12,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 12,
+        "type": "spot",
+        "id": "M-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 12,
+        "type": "spot",
+        "id": "M-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 12,
+        "type": "spot",
+        "id": "M-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 12,
+        "type": "spot",
+        "id": "M-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 12,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 12,
+        "type": "spot",
+        "id": "M-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 12,
+        "type": "spot",
+        "id": "M-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 12,
+        "type": "spot",
+        "id": "M-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 12,
+        "type": "spot",
+        "id": "M-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 12,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 12,
+        "type": "spot",
+        "id": "M-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 12,
+        "type": "spot",
+        "id": "M-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 12,
+        "type": "spot",
+        "id": "M-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 12,
+        "type": "spot",
+        "id": "M-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 12,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 12,
+        "type": "spot",
+        "id": "M-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 12,
+        "type": "spot",
+        "id": "M-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 12,
+        "type": "spot",
+        "id": "M-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 13,
+        "type": "spot",
+        "id": "N-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 13,
+        "type": "spot",
+        "id": "N-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 13,
+        "type": "spot",
+        "id": "N-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 13,
+        "type": "spot",
+        "id": "N-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 13,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 13,
+        "type": "spot",
+        "id": "N-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 13,
+        "type": "spot",
+        "id": "N-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 13,
+        "type": "spot",
+        "id": "N-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 13,
+        "type": "spot",
+        "id": "N-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 13,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 13,
+        "type": "spot",
+        "id": "N-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 13,
+        "type": "spot",
+        "id": "N-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 13,
+        "type": "spot",
+        "id": "N-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 13,
+        "type": "spot",
+        "id": "N-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 13,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 13,
+        "type": "spot",
+        "id": "N-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 13,
+        "type": "spot",
+        "id": "N-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 13,
+        "type": "spot",
+        "id": "N-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 13,
+        "type": "spot",
+        "id": "N-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 13,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 13,
+        "type": "spot",
+        "id": "N-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 13,
+        "type": "spot",
+        "id": "N-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 13,
+        "type": "spot",
+        "id": "N-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 14,
+        "type": "spot",
+        "id": "O-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 14,
+        "type": "spot",
+        "id": "O-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 14,
+        "type": "spot",
+        "id": "O-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 14,
+        "type": "spot",
+        "id": "O-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 14,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 14,
+        "type": "spot",
+        "id": "O-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 14,
+        "type": "spot",
+        "id": "O-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 14,
+        "type": "spot",
+        "id": "O-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 14,
+        "type": "spot",
+        "id": "O-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 14,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 14,
+        "type": "spot",
+        "id": "O-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 14,
+        "type": "spot",
+        "id": "O-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 14,
+        "type": "spot",
+        "id": "O-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 14,
+        "type": "spot",
+        "id": "O-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 14,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 14,
+        "type": "spot",
+        "id": "O-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 14,
+        "type": "spot",
+        "id": "O-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 14,
+        "type": "spot",
+        "id": "O-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 14,
+        "type": "spot",
+        "id": "O-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 14,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 14,
+        "type": "spot",
+        "id": "O-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 14,
+        "type": "spot",
+        "id": "O-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 14,
+        "type": "spot",
+        "id": "O-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 15,
+        "type": "spot",
+        "id": "P-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 15,
+        "type": "spot",
+        "id": "P-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "type": "spot",
+        "id": "P-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "type": "spot",
+        "id": "P-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "type": "spot",
+        "id": "P-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 15,
+        "type": "spot",
+        "id": "P-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 15,
+        "type": "spot",
+        "id": "P-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 15,
+        "type": "spot",
+        "id": "P-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 15,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 15,
+        "type": "spot",
+        "id": "P-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 15,
+        "type": "spot",
+        "id": "P-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 15,
+        "type": "spot",
+        "id": "P-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 15,
+        "type": "spot",
+        "id": "P-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 15,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 15,
+        "type": "spot",
+        "id": "P-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 15,
+        "type": "spot",
+        "id": "P-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 15,
+        "type": "spot",
+        "id": "P-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 15,
+        "type": "spot",
+        "id": "P-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 15,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 15,
+        "type": "spot",
+        "id": "P-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 15,
+        "type": "spot",
+        "id": "P-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 15,
+        "type": "spot",
+        "id": "P-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 16,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 16,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 16,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 16,
+        "type": "spot",
+        "id": "Q-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 17,
+        "type": "spot",
+        "id": "R-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 17,
+        "type": "spot",
+        "id": "R-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 17,
+        "type": "spot",
+        "id": "R-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "type": "spot",
+        "id": "R-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 17,
+        "type": "spot",
+        "id": "R-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 17,
+        "type": "spot",
+        "id": "R-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 17,
+        "type": "spot",
+        "id": "R-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 17,
+        "type": "spot",
+        "id": "R-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 17,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 17,
+        "type": "spot",
+        "id": "R-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 17,
+        "type": "spot",
+        "id": "R-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 17,
+        "type": "spot",
+        "id": "R-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 17,
+        "type": "spot",
+        "id": "R-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 17,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 17,
+        "type": "spot",
+        "id": "R-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 17,
+        "type": "spot",
+        "id": "R-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 17,
+        "type": "spot",
+        "id": "R-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 17,
+        "type": "spot",
+        "id": "R-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 17,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 17,
+        "type": "spot",
+        "id": "R-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 17,
+        "type": "spot",
+        "id": "R-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 17,
+        "type": "spot",
+        "id": "R-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 18,
+        "type": "spot",
+        "id": "S-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 18,
+        "type": "spot",
+        "id": "S-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 18,
+        "type": "spot",
+        "id": "S-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 18,
+        "type": "spot",
+        "id": "S-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 18,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 18,
+        "type": "spot",
+        "id": "S-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 18,
+        "type": "spot",
+        "id": "S-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 18,
+        "type": "spot",
+        "id": "S-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 18,
+        "type": "spot",
+        "id": "S-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 18,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 18,
+        "type": "spot",
+        "id": "S-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 18,
+        "type": "spot",
+        "id": "S-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 18,
+        "type": "spot",
+        "id": "S-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 18,
+        "type": "spot",
+        "id": "S-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 18,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 18,
+        "type": "spot",
+        "id": "S-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 18,
+        "type": "spot",
+        "id": "S-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 18,
+        "type": "spot",
+        "id": "S-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "type": "spot",
+        "id": "S-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 18,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 18,
+        "type": "spot",
+        "id": "S-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 18,
+        "type": "spot",
+        "id": "S-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 18,
+        "type": "spot",
+        "id": "S-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 19,
+        "type": "spot",
+        "id": "T-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 19,
+        "type": "spot",
+        "id": "T-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 19,
+        "type": "spot",
+        "id": "T-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 19,
+        "type": "spot",
+        "id": "T-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 19,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 19,
+        "type": "spot",
+        "id": "T-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 19,
+        "type": "spot",
+        "id": "T-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 19,
+        "type": "spot",
+        "id": "T-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 19,
+        "type": "spot",
+        "id": "T-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 19,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 19,
+        "type": "spot",
+        "id": "T-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 19,
+        "type": "spot",
+        "id": "T-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 19,
+        "type": "spot",
+        "id": "T-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 19,
+        "type": "spot",
+        "id": "T-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 19,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 19,
+        "type": "spot",
+        "id": "T-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 19,
+        "type": "spot",
+        "id": "T-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 19,
+        "type": "spot",
+        "id": "T-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 19,
+        "type": "spot",
+        "id": "T-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 19,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 19,
+        "type": "spot",
+        "id": "T-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 19,
+        "type": "spot",
+        "id": "T-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 19,
+        "type": "spot",
+        "id": "T-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 20,
+        "type": "spot",
+        "id": "U-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 20,
+        "type": "spot",
+        "id": "U-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 20,
+        "type": "spot",
+        "id": "U-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 20,
+        "type": "spot",
+        "id": "U-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 20,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 20,
+        "type": "spot",
+        "id": "U-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 20,
+        "type": "spot",
+        "id": "U-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 20,
+        "type": "spot",
+        "id": "U-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 20,
+        "type": "spot",
+        "id": "U-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 20,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 20,
+        "type": "spot",
+        "id": "U-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 20,
+        "type": "spot",
+        "id": "U-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 20,
+        "type": "spot",
+        "id": "U-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 20,
+        "type": "spot",
+        "id": "U-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 20,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 20,
+        "type": "spot",
+        "id": "U-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 20,
+        "type": "spot",
+        "id": "U-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 20,
+        "type": "spot",
+        "id": "U-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 20,
+        "type": "spot",
+        "id": "U-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 20,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 20,
+        "type": "spot",
+        "id": "U-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 20,
+        "type": "spot",
+        "id": "U-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 20,
+        "type": "spot",
+        "id": "U-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 21,
+        "type": "spot",
+        "id": "V-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 21,
+        "type": "spot",
+        "id": "V-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 21,
+        "type": "spot",
+        "id": "V-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 21,
+        "type": "spot",
+        "id": "V-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 21,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 21,
+        "type": "spot",
+        "id": "V-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 21,
+        "type": "spot",
+        "id": "V-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 21,
+        "type": "spot",
+        "id": "V-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 21,
+        "type": "spot",
+        "id": "V-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 21,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 21,
+        "type": "spot",
+        "id": "V-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 21,
+        "type": "spot",
+        "id": "V-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 21,
+        "type": "spot",
+        "id": "V-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 21,
+        "type": "spot",
+        "id": "V-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 21,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 21,
+        "type": "spot",
+        "id": "V-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 21,
+        "type": "spot",
+        "id": "V-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 21,
+        "type": "spot",
+        "id": "V-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 21,
+        "type": "spot",
+        "id": "V-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 21,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 21,
+        "type": "spot",
+        "id": "V-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 21,
+        "type": "spot",
+        "id": "V-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 21,
+        "type": "spot",
+        "id": "V-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 22,
+        "type": "spot",
+        "id": "W-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 22,
+        "type": "spot",
+        "id": "W-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 22,
+        "type": "spot",
+        "id": "W-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 22,
+        "type": "spot",
+        "id": "W-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 22,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 22,
+        "type": "spot",
+        "id": "W-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 22,
+        "type": "spot",
+        "id": "W-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 22,
+        "type": "spot",
+        "id": "W-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 22,
+        "type": "spot",
+        "id": "W-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 22,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 22,
+        "type": "spot",
+        "id": "W-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 22,
+        "type": "spot",
+        "id": "W-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 22,
+        "type": "spot",
+        "id": "W-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 22,
+        "type": "spot",
+        "id": "W-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 22,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 22,
+        "type": "spot",
+        "id": "W-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 22,
+        "type": "spot",
+        "id": "W-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 22,
+        "type": "spot",
+        "id": "W-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 22,
+        "type": "spot",
+        "id": "W-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 22,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 22,
+        "type": "spot",
+        "id": "W-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 22,
+        "type": "spot",
+        "id": "W-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 22,
+        "type": "spot",
+        "id": "W-23",
+        "status": "empty"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 23,
+        "type": "spot",
+        "id": "X-01",
+        "status": "empty"
+      },
+      {
+        "x": 1,
+        "y": 23,
+        "type": "spot",
+        "id": "X-02",
+        "status": "empty"
+      },
+      {
+        "x": 2,
+        "y": 23,
+        "type": "spot",
+        "id": "X-03",
+        "status": "empty"
+      },
+      {
+        "x": 3,
+        "y": 23,
+        "type": "spot",
+        "id": "X-04",
+        "status": "empty"
+      },
+      {
+        "x": 4,
+        "y": 23,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 5,
+        "y": 23,
+        "type": "spot",
+        "id": "X-06",
+        "status": "empty"
+      },
+      {
+        "x": 6,
+        "y": 23,
+        "type": "spot",
+        "id": "X-07",
+        "status": "empty"
+      },
+      {
+        "x": 7,
+        "y": 23,
+        "type": "spot",
+        "id": "X-08",
+        "status": "empty"
+      },
+      {
+        "x": 8,
+        "y": 23,
+        "type": "spot",
+        "id": "X-09",
+        "status": "empty"
+      },
+      {
+        "x": 9,
+        "y": 23,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 10,
+        "y": 23,
+        "type": "spot",
+        "id": "X-11",
+        "status": "empty"
+      },
+      {
+        "x": 11,
+        "y": 23,
+        "type": "spot",
+        "id": "X-12",
+        "status": "empty"
+      },
+      {
+        "x": 12,
+        "y": 23,
+        "type": "spot",
+        "id": "X-13",
+        "status": "empty"
+      },
+      {
+        "x": 13,
+        "y": 23,
+        "type": "spot",
+        "id": "X-14",
+        "status": "empty"
+      },
+      {
+        "x": 14,
+        "y": 23,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 15,
+        "y": 23,
+        "type": "spot",
+        "id": "X-16",
+        "status": "empty"
+      },
+      {
+        "x": 16,
+        "y": 23,
+        "type": "spot",
+        "id": "X-17",
+        "status": "empty"
+      },
+      {
+        "x": 17,
+        "y": 23,
+        "type": "spot",
+        "id": "X-18",
+        "status": "empty"
+      },
+      {
+        "x": 18,
+        "y": 23,
+        "type": "spot",
+        "id": "X-19",
+        "status": "empty"
+      },
+      {
+        "x": 19,
+        "y": 23,
+        "type": "road",
+        "id": null,
+        "status": null
+      },
+      {
+        "x": 20,
+        "y": 23,
+        "type": "spot",
+        "id": "X-21",
+        "status": "empty"
+      },
+      {
+        "x": 21,
+        "y": 23,
+        "type": "spot",
+        "id": "X-22",
+        "status": "empty"
+      },
+      {
+        "x": 22,
+        "y": 23,
+        "type": "spot",
+        "id": "X-23",
+        "status": "empty"
+      }
+    ]
+  ]
+}
