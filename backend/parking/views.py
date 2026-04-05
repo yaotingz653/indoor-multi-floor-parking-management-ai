@@ -59,25 +59,31 @@ def manual_update_status(request):
         try:
             data = json.loads(request.body)
             target_spot_code = data.get('spot_code')
+            new_status = data.get('status') # 🌟 新增：讀取前端傳來的「目標狀態」
 
             if not target_spot_code:
-                return JsonResponse({'status': 'error', 'message': '未提供車位編號'}, status=400)
+                return JsonResponse({'status': 'error', 'message': '未提供車位編號'}, status=400, json_dumps_params={'ensure_ascii': False})
+            if not new_status:
+                return JsonResponse({'status': 'error', 'message': '未提供目標狀態 (status)'}, status=400, json_dumps_params={'ensure_ascii': False})
 
-            # 去 Neon 資料庫找出那個車位
+            # 去資料庫把那個車位找出來
             spot = ParkingSpot.objects.get(spot_code=target_spot_code)
             
-            # 強制改為占用並存檔
-            spot.status = 'occupied'
+            # 🌟 把原本寫死的 'occupied' 換成前端指定的 new_status
+            spot.status = new_status
             spot.save()
+
+            # 讓回傳訊息變聰明：自動判斷中文
+            status_tw = "占用" if new_status == "occupied" else "空閒"
 
             return JsonResponse({
                 'status': 'success',
-                'message': f'✅ 成功！車位 {target_spot_code} 已更改為占用狀態。'
-            })
+                'message': f'✅ 成功！車位 {target_spot_code} 已更改為【{status_tw}】狀態。'
+            }, json_dumps_params={'ensure_ascii': False})
 
         except ParkingSpot.DoesNotExist:
-            return JsonResponse({'status': 'error', 'message': f'找不到車位：{target_spot_code}'}, status=404)
+            return JsonResponse({'status': 'error', 'message': f'找不到車位：{target_spot_code}'}, status=404, json_dumps_params={'ensure_ascii': False})
         except Exception as e:
-            return JsonResponse({'status': 'error', 'message': f'發生錯誤：{str(e)}'}, status=500)
+            return JsonResponse({'status': 'error', 'message': f'發生錯誤：{str(e)}'}, status=500, json_dumps_params={'ensure_ascii': False})
             
-    return JsonResponse({'status': 'error', 'message': '請使用 POST 方法呼叫此 API'}, status=405)
+    return JsonResponse({'status': 'error', 'message': '請使用 POST 方法呼叫此 API'}, status=405, json_dumps_params={'ensure_ascii': False})
