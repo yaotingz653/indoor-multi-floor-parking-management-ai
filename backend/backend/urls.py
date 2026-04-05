@@ -16,11 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from parking.views import update_spot_status
-from parking.views import update_spot_status, get_dashboard_data
+from parking.views import update_spot_status, get_dashboard_data, manual_update_status
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/update_spot/', update_spot_status),
     path('api/dashboard/', get_dashboard_data),
+    path('api/manual_update/', manual_update_status),
 ]

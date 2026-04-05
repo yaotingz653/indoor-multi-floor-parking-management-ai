@@ -47,3 +47,37 @@ def get_dashboard_data(request):
         "message": "🎉 老闆！前端和後端正式連線成功啦！",
         "status": "success"
     })
+
+import json
+from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
+from .models import ParkingSpot
+
+@csrf_exempt
+def manual_update_status(request):
+    if request.method == 'POST':
+        try:
+            data = json.loads(request.body)
+            target_spot_code = data.get('spot_code')
+
+            if not target_spot_code:
+                return JsonResponse({'status': 'error', 'message': '未提供車位編號'}, status=400)
+
+            # 去 Neon 資料庫找出那個車位
+            spot = ParkingSpot.objects.get(spot_code=target_spot_code)
+            
+            # 強制改為占用並存檔
+            spot.status = 'occupied'
+            spot.save()
+
+            return JsonResponse({
+                'status': 'success',
+                'message': f'✅ 成功！車位 {target_spot_code} 已更改為占用狀態。'
+            })
+
+        except ParkingSpot.DoesNotExist:
+            return JsonResponse({'status': 'error', 'message': f'找不到車位：{target_spot_code}'}, status=404)
+        except Exception as e:
+            return JsonResponse({'status': 'error', 'message': f'發生錯誤：{str(e)}'}, status=500)
+            
+    return JsonResponse({'status': 'error', 'message': '請使用 POST 方法呼叫此 API'}, status=405)
