@@ -1,0 +1,5 @@
+{
+  "name": "Indoor Multi-floor Parking Management AI",
+  "description": "A specialized management system for indoor parking lots featuring floor-by-floor occupancy tracking, AI LPR integration, and real-time equipment monitoring.",
+  "requestFramePermissions": []
+}
